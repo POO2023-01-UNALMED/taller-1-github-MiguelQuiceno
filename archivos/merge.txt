@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Nombre: Miguel Quiceno
 Edad: 19 años
 Aspiraciones con la materia: Con esta materia quiero prepararme para los retos que la programacion y la ciencia de datos tienen
 para ofrecer en el ambito empresarial
+=======
+La carpeta archivos se pudo visualizar ahora debido al merge que se hizo despues del comando push, mientras no habia un archivo en la carpeta no aparecia nada
+>>>>>>> b81d96891b865d5e7ca29fbcc0c28cc5dd539d72
