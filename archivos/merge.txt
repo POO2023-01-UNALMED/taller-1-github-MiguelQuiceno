@@ -1,1 +1,0 @@
-La carpeta archivos se pudo visualizar ahora debido al merge que se hizo despues del comando push, mientras no habia un archivo en la carpeta no aparecia nada
